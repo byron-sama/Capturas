@@ -1,0 +1,11 @@
+Herramienta:
+MongoDB 4.0.2 Enterprise
+
+Robo 3T 1.2.1
+
+Ruta de Mongo:
+C:\Program Files\MongoDB\Server\4.0
+
+Para ejecutar Mongo:
+Primero ejecuto mongod.exe y luego mongo.exe
+que es la consola
